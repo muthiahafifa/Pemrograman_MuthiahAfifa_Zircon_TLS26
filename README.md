@@ -1,6 +1,7 @@
 # Pemrograman_MuthiahAfifa_Zircon_TLS26
 
 **Nama:** Muthiah Afifa  
+**Prodi:** Teknologi Informasi
 **Kelompok:** Zircon
 
 ## Deskripsi
